@@ -1,0 +1,21 @@
+{
+  "name": "HTML",
+  "homepage": "https://github.com/programadorwilliam/SITE-LAYOUT",
+  "authors": [
+    "programadorwilliam <programador.william2015@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
